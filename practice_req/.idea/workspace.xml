@@ -24,8 +24,8 @@
       <file leaf-file-name="route.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/route.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            <state relative-caret-position="282">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,8 +84,8 @@
       <file leaf-file-name="suite_html.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/suite_html.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="297">
+              <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
               <folding>
                 <element signature="e#179#203#0" expanded="true" />
               </folding>
@@ -163,14 +163,14 @@
         <option value="$PROJECT_DIR$/test_case/test_reg.py" />
         <option value="$PROJECT_DIR$/common/request_1.py" />
         <option value="$PROJECT_DIR$/prac.py" />
-        <option value="$PROJECT_DIR$/common/route.py" />
         <option value="$PROJECT_DIR$/suite_html.py" />
+        <option value="$PROJECT_DIR$/common/route.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="580" />
-    <option name="y" value="15" />
+    <option name="x" value="315" />
+    <option name="y" value="390" />
     <option name="width" value="1169" />
     <option name="height" value="1047" />
   </component>
@@ -189,6 +189,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,8 +239,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prac">
+  <component name="RunManager" selected="Python.suite_html">
     <configuration name="Unittests for test_reg.TestReg" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,20 +282,6 @@
       <module name="practice_req" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_reg.TestReg&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests for test_reg.TestReg.test_reg" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practice_req" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_reg.TestReg.test_reg&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests in test_reg.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -346,20 +332,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="suite_html" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practice_req" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suite_html.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_reg.py" />
       <item index="1" class="java.lang.String" itemvalue="Python.request_1" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_reg.TestReg" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_reg.TestReg.test_reg" />
-      <item index="4" class="java.lang.String" itemvalue="Python.prac" />
+      <item index="3" class="java.lang.String" itemvalue="Python.prac" />
+      <item index="4" class="java.lang.String" itemvalue="Python.suite_html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.prac" />
-        <item index="1" class="java.lang.String" itemvalue="Python.request_1" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_reg.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_reg.TestReg" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_reg.TestReg.test_reg" />
+        <item index="0" class="java.lang.String" itemvalue="Python.suite_html" />
+        <item index="1" class="java.lang.String" itemvalue="Python.prac" />
+        <item index="2" class="java.lang.String" itemvalue="Python.request_1" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_reg.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_reg.TestReg" />
       </list>
     </recent_temporary>
   </component>
@@ -413,8 +416,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28464818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28784648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38244852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -705,16 +709,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common/route.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="282">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/suite_html.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="297">
+          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
           <folding>
             <element signature="e#179#203#0" expanded="true" />
           </folding>
