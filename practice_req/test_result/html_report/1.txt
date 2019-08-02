@@ -1,0 +1,544 @@
+test_reg_1_1 (test_case.log.TestLog) ... ERROR
+test_reg_1_2 (test_case.log.TestLog) ... ERROR
+test_reg_1_3 (test_case.log.TestLog) ... ERROR
+test_reg_1_4 (test_case.log.TestLog) ... ERROR
+test_reg_1_5 (test_case.log.TestLog) ... ERROR
+test_reg_1_6 (test_case.log.TestLog) ... ERROR
+test_reg_1_7 (test_case.log.TestLog) ... ERROR
+test_reg_1_1 (test_case.log.TestLog) ... ERROR
+test_reg_1_2 (test_case.log.TestLog) ... ERROR
+test_reg_1_3 (test_case.log.TestLog) ... ERROR
+test_reg_1_4 (test_case.log.TestLog) ... ERROR
+test_reg_1_5 (test_case.log.TestLog) ... ERROR
+test_reg_1_6 (test_case.log.TestLog) ... ERROR
+test_reg_1_7 (test_case.log.TestLog) ... ERROR
+test_reg_1_1 (test_case.log.TestLog) ... ERROR
+test_reg_1_2 (test_case.log.TestLog) ... ERROR
+test_reg_1_3 (test_case.log.TestLog) ... ERROR
+test_reg_1_4 (test_case.log.TestLog) ... ERROR
+test_reg_1_5 (test_case.log.TestLog) ... ERROR
+test_reg_1_6 (test_case.log.TestLog) ... ERROR
+test_reg_1_7 (test_case.log.TestLog) ... ERROR
+test_reg_1_1 (test_case.log.TestLog) ... ERROR
+test_reg_1_2 (test_case.log.TestLog) ... ERROR
+test_reg_1_3 (test_case.log.TestLog) ... ERROR
+test_reg_1_4 (test_case.log.TestLog) ... ERROR
+test_reg_1_5 (test_case.log.TestLog) ... ERROR
+test_reg_1_6 (test_case.log.TestLog) ... ERROR
+test_reg_1_7 (test_case.log.TestLog) ... ERROR
+test_reg_1_1 (test_case.log.TestLog) ... ERROR
+test_reg_1_2 (test_case.log.TestLog) ... ERROR
+test_reg_1_3 (test_case.log.TestLog) ... ERROR
+test_reg_1_4 (test_case.log.TestLog) ... ERROR
+test_reg_1_5 (test_case.log.TestLog) ... ERROR
+test_reg_1_6 (test_case.log.TestLog) ... ERROR
+test_reg_1_7 (test_case.log.TestLog) ... ERROR
+test_reg_1_1 (test_case.log.TestLog) ... ERROR
+test_reg_1_2 (test_case.log.TestLog) ... ERROR
+test_reg_1_3 (test_case.log.TestLog) ... ERROR
+test_reg_1_4 (test_case.log.TestLog) ... ERROR
+test_reg_1_5 (test_case.log.TestLog) ... ERROR
+test_reg_1_6 (test_case.log.TestLog) ... ERROR
+test_reg_1_7 (test_case.log.TestLog) ... ERROR
+test_reg_1_1 (test_case.log.TestLog) ... ERROR
+test_reg_1_2 (test_case.log.TestLog) ... ERROR
+test_reg_1_3 (test_case.log.TestLog) ... ERROR
+test_reg_1_4 (test_case.log.TestLog) ... ERROR
+test_reg_1_5 (test_case.log.TestLog) ... ERROR
+test_reg_1_6 (test_case.log.TestLog) ... ERROR
+test_reg_1_7 (test_case.log.TestLog) ... ERROR
+
+======================================================================
+ERROR: test_reg_1_1 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_2 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_3 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_4 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_5 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_6 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_7 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_1 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_2 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_3 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_4 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_5 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_6 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_7 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_1 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_2 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_3 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_4 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_5 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_6 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_7 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_1 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_2 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_3 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_4 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_5 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_6 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_7 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_1 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_2 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_3 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_4 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_5 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_6 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_7 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_1 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_2 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_3 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_4 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_5 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_6 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_7 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_1 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_2 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_3 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_4 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_5 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_6 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+======================================================================
+ERROR: test_reg_1_7 (test_case.log.TestLog)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Python_auto\python34\lib\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\Python_auto\practice_req\test_case\log.py", line 37, in test_reg_1
+    read.write_data(sheet='login', row=item.case_id+1,column=7,value=result)
+TypeError: write_data() got an unexpected keyword argument 'row'
+
+----------------------------------------------------------------------
+Ran 49 tests in 5.398s
+
+FAILED (errors=49)
