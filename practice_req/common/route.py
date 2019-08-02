@@ -11,7 +11,7 @@ from conf import r_conf
 r_dir=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))#os.path.abspath 读取的是文件的绝对路径，能够读取内容
 
 data_dir=os.path.join(r_dir,'data')
-exc_1=os.path.join(data_dir,'su_data.xlsx')#excel相对路径
+exc_1=os.path.join(data_dir,'prac_data.xlsx')#excel相对路径
 
 test_result = os.path.join(r_dir,'test_result')
 html_dir=os.path.join(test_result,'html_report')
