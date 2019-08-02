@@ -24,8 +24,8 @@
       <file leaf-file-name="route.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/route.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="418">
+              <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -71,12 +71,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prac.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="prac.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="968">
+              <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="suite_html.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/suite_html.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <element signature="e#179#203#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,7 +131,7 @@
         <option value="$PROJECT_DIR$/../python34/Lib/site-packages/requests/__init__.py" />
         <option value="$PROJECT_DIR$/data/do_excel.py" />
         <option value="$PROJECT_DIR$/test_case/test_log.py" />
-        <option value="E:/cyl/工作/01课件/week_6/class_0105/class_ddt.py" />
+        <option value="$PROJECT_DIR$/../../01课件/week_6/class_0105/class_ddt.py" />
         <option value="$PROJECT_DIR$/common/y.txt.py" />
         <option value="$PROJECT_DIR$/y.txt" />
         <option value="$PROJECT_DIR$/x.json" />
@@ -149,9 +161,10 @@
         <option value="$PROJECT_DIR$/../python34/Lib/site-packages/pymysql/connections.py" />
         <option value="$PROJECT_DIR$/common/ms_read.py" />
         <option value="$PROJECT_DIR$/test_case/test_reg.py" />
-        <option value="$PROJECT_DIR$/common/route.py" />
         <option value="$PROJECT_DIR$/common/request_1.py" />
         <option value="$PROJECT_DIR$/prac.py" />
+        <option value="$PROJECT_DIR$/common/route.py" />
+        <option value="$PROJECT_DIR$/suite_html.py" />
       </list>
     </option>
   </component>
@@ -176,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,12 +237,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -400,9 +413,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2782516" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28464818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38244852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -453,13 +465,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_case/add.py" />
     <entry file="file://$PROJECT_DIR$/test_case/log.py" />
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="1297" column="8" lean-forward="false" selection-start-line="1297" selection-start-column="8" selection-end-line="1297" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/logging/__init__.py" />
     <entry file="file://$PROJECT_DIR$/test_case/login.py" />
     <entry file="file://$PROJECT_DIR$/test_case/invest.py" />
     <entry file="file://$PROJECT_DIR$/test_case/recharge.py" />
@@ -522,20 +528,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/suite_html.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/pymysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="130" column="21" lean-forward="true" selection-start-line="130" selection-start-column="21" selection-end-line="137" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/pymysql/__init__.py" />
     <entry file="file://$PROJECT_DIR$/test_case/test_audit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-198">
@@ -564,58 +557,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="620" column="70" lean-forward="true" selection-start-line="620" selection-start-column="70" selection-end-line="620" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/requests/sessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="480" column="62" lean-forward="true" selection-start-line="480" selection-start-column="33" selection-end-line="480" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/pymysql/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3787">
-          <caret line="1209" column="28" lean-forward="false" selection-start-line="1209" selection-start-column="28" selection-end-line="1209" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/pymysql/cursors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="164" column="0" lean-forward="false" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/ddt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#315#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/unittest/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/unittest/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/requests/models.py" />
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/requests/sessions.py" />
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/pymysql/connections.py" />
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/pymysql/cursors.py" />
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/ddt.py" />
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/unittest/loader.py" />
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/unittest/main.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -670,14 +618,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/reg_phone.txt" />
-    <entry file="file://$PROJECT_DIR$/common/route.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/do_excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -686,13 +626,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../python34/Lib/site-packages/requests/api.py" />
     <entry file="file://$PROJECT_DIR$/data/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -763,9 +697,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        <state relative-caret-position="968">
+          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/route.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suite_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#179#203#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

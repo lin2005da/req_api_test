@@ -14,6 +14,10 @@ data_dir=os.path.join(r_dir,'data')
 exc_1=os.path.join(data_dir,'su_data.xlsx')#excel相对路径
 
 test_result = os.path.join(r_dir,'test_result')
+html_dir=os.path.join(test_case,'html_result')
+html_file=os.path.join(html_dir,'web.html')
+
+
 log_dir=os.path.join(test_result,'log')
 # print(log_dir)
 

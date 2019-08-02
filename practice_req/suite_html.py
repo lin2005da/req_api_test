@@ -20,7 +20,7 @@ from common import route
 # suite_1.addTest(loader.loadTestsFromModule(invest))
 
 discover=unittest.defaultTestLoader.discover(start_dir=route.test_case, pattern='test_*.py')
-with open('html_1.html','wb') as f:
+with open(route.html_file,'wb') as f:
     file_1=HTMLTestRunnerNew.HTMLTestRunner(stream=f, title='测试报告', verbosity=2,description=None,tester='cyl')
     file_1.run(discover)
 # with open('1.txt','w') as file:
