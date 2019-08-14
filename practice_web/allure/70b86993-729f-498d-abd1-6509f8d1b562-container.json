@@ -1,0 +1,1 @@
+{"start": 1565768060775, "befores": [{"start": 1565768060775, "name": "baselogin", "stop": 1565768110835, "status": "passed"}], "afters": [{"start": 1565768135660, "name": "baselogin::0", "stop": 1565768137855, "status": "passed"}], "stop": 1565768137855, "uuid": "a50495e6-321c-49cc-9f6d-f8cafd71a423", "children": ["28638bc1-5c98-456b-83c3-8b5b4f3a7680"]}

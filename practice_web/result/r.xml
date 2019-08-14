@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skipped="0" tests="1" time="0.289"><testcase classname="test_bid_py" file="test_bid_py.py" name="TestBid_ok" time="0.000"><error message="collection failure">..\..\python34\lib\site-packages\pluggy\hooks.py:289: in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+..\..\python34\lib\site-packages\pluggy\manager.py:87: in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+..\..\python34\lib\site-packages\pluggy\manager.py:81: in &lt;lambda&gt;
+    firstresult=hook.spec.opts.get(&quot;firstresult&quot;) if hook.spec else False,
+..\..\python34\lib\site-packages\_pytest\python.py:234: in pytest_pycollect_makeitem
+    res = list(collector._genfunctions(name, obj))
+..\..\python34\lib\site-packages\_pytest\python.py:410: in _genfunctions
+    self.ihook.pytest_generate_tests(metafunc=metafunc)
+..\..\python34\lib\site-packages\pluggy\hooks.py:289: in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+..\..\python34\lib\site-packages\pluggy\manager.py:87: in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+..\..\python34\lib\site-packages\pluggy\manager.py:81: in &lt;lambda&gt;
+    firstresult=hook.spec.opts.get(&quot;firstresult&quot;) if hook.spec else False,
+..\..\python34\lib\site-packages\_pytest\python.py:137: in pytest_generate_tests
+    metafunc.parametrize(*marker.args, **marker.kwargs)
+..\..\python34\lib\site-packages\_pytest\python.py:1004: in parametrize
+    function_definition=self.definition,
+..\..\python34\lib\site-packages\_pytest\mark\structures.py:124: in _for_parametrize
+    parameters = cls._parse_parametrize_parameters(argvalues, force_tuple)
+..\..\python34\lib\site-packages\_pytest\mark\structures.py:118: in _parse_parametrize_parameters
+    ParameterSet.extract_from(x, force_tuple=force_tuple) for x in argvalues
+E   TypeError: &apos;module&apos; object is not iterable</error></testcase></testsuite>
